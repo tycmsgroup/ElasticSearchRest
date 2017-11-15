@@ -1,0 +1,10 @@
+#server
+server:
+  port: 1111
+
+#es
+myProps:
+  address:
+    localhost,localhost
+  port:
+    9200,9201
